@@ -16,8 +16,6 @@ Projeto desenvolvido em Squad através do curso técnico<br>
    ### Cadastro
    ![WEB](https://github.com/Innovation-Skyline0/Login_PWFE/blob/main/assets/SignPage.png)
 
-
-
 ## Gerenciamento do projeto:
 - Trello
 
